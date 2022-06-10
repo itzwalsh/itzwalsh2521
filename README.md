@@ -1,3 +1,3 @@
 Hey I'm Zack Walsh.
 I'm interested in learning all programming languages
-I'm currently learning Kotlin in my third year of college, and plan on learning GoLang in my free time.
+I'm currently a Senior in college and love to code. My goals for the near future include learning GoLang, and creating cool personal projects to expand my knowledge.
